@@ -10,7 +10,7 @@ const Navbar = () => {
         <div id="sticky-wrapper" className="sticky-wrapper" style={{height: '10vh'}}><nav className="navbar navbar-expand-lg bg-light shadow-lg" style={{width: '100vw'}}>
     <div className="container">
         <NavLink className="navbar-brand" to="index.html">
-            <img src={logo} className="logo img-fluid" alt="Kind Heart Charity"/>
+            <img src={logo} className="logo img-fluid"/>
             <span>Petopia
                 <small>Utopia for your pets</small>
             </span>

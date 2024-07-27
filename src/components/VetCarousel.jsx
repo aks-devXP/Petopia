@@ -8,8 +8,8 @@ const VetCarousel = ({controls}) => {
 
   return (
     <>
-        <div className="container-fluid col-lg-7 mt-4 mb-4 rounded">
-            <Carousel fade interval={3000} controls={false} className='carousel-inner2' id='hero-slide2'>
+        <div className="container-fluid col-lg-7 mt-4 mb-5 rounded">
+            <Carousel fade interval={3000} controls={false} indicators={false} className='carousel-inner2' id='hero-slide2'>
                 <Carousel.Item className='carousel-item'>
                 <img
                     className="d-block w-100"

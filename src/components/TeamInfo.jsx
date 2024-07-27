@@ -58,7 +58,6 @@ const TeamInfo = () => {
                             <div className="custom-text-box d-flex flex-wrap d-lg-block mb-lg-0">
                                 <div className="counter-thumb"> 
                                     <div className="d-flex">
-                                        <span className="counter-number" data-from="1" data-to="2009" data-speed="1000"></span>
                                         <span className="counter-number-text">2024</span>
                                     </div>
 
@@ -67,7 +66,6 @@ const TeamInfo = () => {
 
                                 <div className="counter-thumb mt-4"> 
                                     <div className="d-flex">
-                                        <span className="counter-number" data-from="1" data-to="120" data-speed="1000"></span>
                                         <span className="counter-number-text">2</span>
                                     </div>
 
