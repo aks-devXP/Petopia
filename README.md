@@ -3,7 +3,7 @@ Petopia is a web based application built for Animal Welfare. Agile Development M
 
 ## Tech Stack
 - HTML, CSS, Javascript
-- Bootstrap
+- Bootstrap, TailWind
 - Node.Js, React.Js
 - MongoDB (To be implemented)
     
